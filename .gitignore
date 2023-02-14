@@ -1,0 +1,6 @@
+dist
+node_modules
+# el DS-Store es solo para las MAC
+.cache
+
+
